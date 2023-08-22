@@ -1,16 +1,14 @@
-<h1 align="center"> Página de Receitas Responsiva (Em desenvolvimento)</h1>
+<h1 align="center"> Página de Receitas Responsiva</h1>
 
 <p align="center">
 Projeto nº 3 realizado no Stage 3 do programa Explorer da Rocketseat<br/>
 Neste projeto aprendemos a aplicar conceitos de HTML, CSS, a utilização do Figma e como tornar o projeto Responsivo.<br/>
 
-<!--
 <p align="center">
 A imagem abaixo representa o resultado final do projeto, e na seção Projeto Finalizado você pode acessar o projeto publicado online e conferir todos os detalhes. 
 <br/><br/>
 <img src="./github/projeto-finalizado.png" width="700">
 </p>
--->
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -32,10 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto Finalizado
 
-Em desenvolvimento.
-<!--
-<a href="" target="_blank"><strong> - Clique aqui para acessar o meu projeto finalizado.</strong></a>
--->
+<a href="https://responsive-recipes-page.vercel.app/" target="_blank"><strong> - Clique aqui para acessar o meu projeto finalizado.</strong></a>
 
 ## 🔖 Layout
 
